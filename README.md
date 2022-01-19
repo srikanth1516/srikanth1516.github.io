@@ -51,7 +51,7 @@ Understanding the code flow and debugging it
 
 ## Education
 
-### **Malla Reddy College **
+### **Malla Reddy College**
 ### BTech Computer Science
 GPA 7.25
 
