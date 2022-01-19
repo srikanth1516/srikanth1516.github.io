@@ -1,1 +1,11 @@
+title: Srikanth Chowki # your name (or website title) here
+logo: "/profile.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Software Developer Engineer
+  <br><br>
+  <a href="chowkisrikanth7@gmail.com">chowkisrikanth7@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/srikanth-chowki/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/srikanth1516/">Gihub</a> 
 theme: jekyll-theme-minimal
