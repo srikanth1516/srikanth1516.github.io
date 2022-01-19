@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/srikanth1516/srikanth1516.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a Backend engineer with an experience of over 3 years. I have hands on experience working with Java and Spring frameworks and technologies. I have extensively worked on Java and Spring Boot for 3 years.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align='left'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Java-Debugging-Tips-881x441.jpg/800px-Java-Debugging-Tips-881x441.jpg" alt="html" width="100" height="40">
+  <img src='https://res.cloudinary.com/practicaldev/image/fetch/s--zrUJwvgZ--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bupbqc9fctvw4j7r14it.png' alt="css" width="100" height="40">
+  
+   <img src="https://techcrunch.com/wp-content/uploads/2015/09/gitlab.png" alt="react" width="auto" height="40"/>
+   <img src="https://webapp.io/blog/content/images/2019/11/postgres.png" width="100" height="40"/>
+</p>
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## Experience
 
-- Bulleted
-- List
+## Temenos Private Limited
+### **Software Developer Engineer**
+#### CWB (Canadian Western Bank) (09/2021 - Present)(09/2021 - Present)
 
-1. Numbered
-2. List
+Interact with client in all stages of development to deliver the requirements
+Implementing business logic account to the client's use case.
+Making the Infinity application as client requirement.Supporting the application in all the ways
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Cognizant Technology Solutions
+### **Programmer Analyst**
+#### B&P Investment 2021(Billing and Payment Investment) (11/2020 - 08/2021)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Developing the micro services to convert from legacy to domain specific
+Interacting with client in all stages
+Testing the services in all the environments until it goes to production environment
+Testing the service in postman
 
-### Jekyll Themes
+#### VOD(VOIP on Demand) (08/2019 - 11/2020)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/srikanth1516/srikanth1516.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Interacting with client for gathering requirements and developing business logics
+working on various enhancements and user stories
+Flowing the orders to replicate the production issues in the local Aligning the code standards to make the code standard robust
 
-### Support or Contact
+### XO Migration (06/2019 - 08/2019)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Writing Junits through mockito for code testing scenario Working on fortify and blackduck issues
+Understanding the code flow and debugging it
+
+---
+
+## Education
+
+### **Malla Reddy College **
+### BTech Computer Science
+GPA 7.25
+
+---
+
+### INTERESTS
+Apart from being a developer, I do have interest in exploring different types of Gadgets in the market .
+
+I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures.
